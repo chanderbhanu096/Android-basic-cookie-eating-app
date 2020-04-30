@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Testing</string>
+    <string name="hungry">"I'm so hungry"</string>
+    <string name="eat">EAT COOKIE</string>
+    <string name="full">"I'm so full"</string>
+
+</resources>
